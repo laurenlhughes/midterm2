@@ -1,0 +1,64 @@
+h2{
+	color: darkslategray;
+	font-size: 25px;
+}
+
+blockquote{
+	background-color: lightgray;
+	color: blue;
+	
+}
+
+#main-nav {
+	border-bottom: 1px solid papayawhip;
+
+}
+
+#main-nav a:link,
+#main-nav a:visited {
+	text-decoration: dotted;
+	color: darkblue;
+	
+}
+#main-nav a:hover,
+#main-nav a:focus,
+#main-nav a:active {
+	color: coral;
+	text-decoration: underline
+}
+
+main{
+	width: 60%;
+	float: center;
+	padding-left: 25px;
+	padding-right: 25px;
+	margin-bottom: 30px;
+}
+#content-left {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  }
+  #content-right {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+
+
+.article-thumbs	{
+	text-align: center;
+	clear:both;
+}
+.article-thumbs img {
+	border-radius: 50%;
+	width: 200px;
+	padding:200px;
+}
